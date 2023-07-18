@@ -1,5 +1,11 @@
 # astro
 
+## 2.8.5
+
+### Patch Changes
+
+- [#7694](https://github.com/withastro/astro/pull/7694) [`06c255716`](https://github.com/withastro/astro/commit/06c255716ae8e922fb9d4ffa5595cbb34146fff6) Thanks [@natemoo-re](https://github.com/natemoo-re)! - Fix route matching behavior when `getStaticPaths` result includes hyphenated params
+
 ## 2.8.4
 
 ### Patch Changes
